@@ -24,5 +24,5 @@ print('kelima')
 # 1. git branch (nama branch)
 # 2. masuk ke branch ==> git checkout (nama branch)
 # 3. cek di branch mana ==> git branch -a
-# 4. cara hapus, balik dulu ke master lalu 
+# 4. cara hapus, balik dulu ke master lalu apaya ????
 #  
