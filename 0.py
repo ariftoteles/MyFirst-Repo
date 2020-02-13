@@ -8,7 +8,11 @@ print('y')
 # 2. git add . ==> menambhakan semua file
 # 3. git add 0a.py ==> menambahkan file tertentu
 # 4. git commit -m "Ini commit pertamaku"
-# 5. git log ==> 
+# 5. git log ==> cek log
 
 print('a')
 print('b')
+
+# CHECKOUT ==> read only
+# REVERT ==> back to past and modif commit
+# RESET ==> back to past and stay on there, not comeback to present
