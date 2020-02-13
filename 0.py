@@ -17,3 +17,5 @@ print('b')
 # untuk kembali ke checkout master ==>> git checkout master
 # REVERT ==> back to past and modif commit
 # RESET ==> back to past and stay on there, not comeback to present ==>> git reset (code) DONT TRY THIS !!!
+
+print('kelima')
