@@ -13,6 +13,7 @@ print('y')
 print('a')
 print('b')
 
-# CHECKOUT ==> read only
+# CHECKOUT ==> read only ==> git log online ==> copy code lalu git chechkout (copy code tujuan commit) 
+# untuk kembali ke checkout master ==>> git checkout master
 # REVERT ==> back to past and modif commit
 # RESET ==> back to past and stay on there, not comeback to present
