@@ -26,3 +26,4 @@ print('kelima')
 # 3. cek di branch mana ==> git branch -a
 # 4. cara hapus, balik dulu ke master lalu apaya ????
 #  
+print('asjdjaskc')
