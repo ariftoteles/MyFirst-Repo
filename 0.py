@@ -27,3 +27,5 @@ print('kelima')
 # 4. cara hapus, balik dulu ke master lalu apaya ????
 #  
 print('hashdaskSNL')
+
+# git rm --chached z.py semisal
