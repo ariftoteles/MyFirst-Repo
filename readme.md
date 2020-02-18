@@ -36,6 +36,13 @@ Untuk info selengkapnya [Klik di sini](https://www.google.com/?hl=in)
 ![logo pssi](https://upload.wikimedia.org/wikipedia/id/8/83/Logo_PSSI.png)
 
 <hr>
+
+#
+
 <b> ini bold </b>
 
-<img alt="logopssi" src = "https://upload.wikimedia.org/wikipedia/id/8/83/Logo_PSSI.png">
+<img alt="logopssi" src = "https://upload.wikimedia.org/wikipedia/id/8/83/Logo_PSSI.png" width = "30%">
+
+<img alt="logopssi" src = "https://upload.wikimedia.org/wikipedia/id/8/83/Logo_PSSI.png" style = "width:10%">
+
+> Lorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla bla
