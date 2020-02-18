@@ -54,3 +54,9 @@ print(x)
 ```bash
 $ git commit -m "tes tick commit"
 ```
+
+No. | Nama | Usia 
+-|-|-
+1. | Andi | 21
+2. | Budi | 22
+3. | Caca | 23
