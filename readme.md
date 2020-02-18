@@ -16,3 +16,18 @@ __ini juga bold__
 __*ini italic bold*__
 
 _**ini juga italic bold**_
+
+Daftar Belanja :
+- Beras
+- Gula
+- Bumbu :
+    - Lada
+    - Merica
+
+Ranking :
+1. Andi
+2. Budi
+3. Bersama :
+    1. Caca
+    2. Dora
+    
