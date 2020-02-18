@@ -31,4 +31,6 @@ Ranking :
     1. Caca
     2. Dora
 
-[Klik di sini](https://www.google.com/?hl=in)
+Untuk info selengkapnya [Klik di sini](https://www.google.com/?hl=in)
+
+![logo pssi](https://upload.wikimedia.org/wikipedia/id/8/83/Logo_PSSI.png)
