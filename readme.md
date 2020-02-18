@@ -46,3 +46,11 @@ Untuk info selengkapnya [Klik di sini](https://www.google.com/?hl=in)
 <img alt="logopssi" src = "https://upload.wikimedia.org/wikipedia/id/8/83/Logo_PSSI.png" style = "width:10%">
 
 > Lorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla blaLorem ipsum bla bla
+
+print(x)
+```python
+print(x)
+```
+```bash
+$ git commit -m "tes tick commit"
+```
